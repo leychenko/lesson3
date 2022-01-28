@@ -1,0 +1,27 @@
+	h1{
+		color: red;
+	}
+	p{	
+		color: cadetblue;
+	}
+	p span{
+		color: chartreuse;
+	}
+	.text{
+		color: seagreen;
+	}
+	.container{
+		color: blue;
+	}
+	.section .text-text{
+		color: brown;
+	}
+	.list{
+		color: darkgreen;
+	}
+	.section2>p{
+		color: forestgreen;
+	}
+	.section2 span{
+		color: indigo;
+	}
